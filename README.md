@@ -2,7 +2,7 @@
 
 <h3>About</h3>
 <p align="left">
-  Ein Javascript Udemy Projekt von <a href="https://www.udemy.com/course/der-ultimative-javascript-komplettkurs/">Ruben Winkler</a> Hier wird von den Grundlagen    das wichtigste über Javascprit beigebracht. In diesem Projekt wurde ein Haushaltrechner programmiert, in denen man seine bisherigen Einnahmen und Ausgaben sich
+  Ein Javascript Udemy Projekt von <a href="https://www.udemy.com/course/der-ultimative-javascript-komplettkurs/">Ruben Winkler</a>. Hier wird von den Grundlagen    die wichtigsten Grundlagen über Javascprit beigebracht. In diesem Projekt wurde ein Haushaltrechner programmiert, in denen man seine bisherigen Einnahmen und Ausgaben sich
   ansehen kann. Dabei kann man auch neue Einträge hinzufügen.
 </p>
 
